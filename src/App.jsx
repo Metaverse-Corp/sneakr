@@ -7,8 +7,8 @@ function Navbar() {
     <nav className="navbar">
       <a className="logo" href="#home" aria-label="SNEAKR home">SNEAKR<span>.</span></a>
       <div className="nav-links">
-        <a href="#home">Home</a>
-        <a href="#shop">Shop</a>
+        <a href="#home">Welcome Home</a>
+        <a href="#shop">Shop With Us</a>
         <a href="#collections">Collections</a>
         <a href="#about">About</a>
       </div>
@@ -36,7 +36,7 @@ function Hero() {
       <Navbar />
       <section className="hero-content">
         <div className="hero-copy">
-          <div className="eyebrow"><span className="eyebrow-line" />THE FUTURE OF FOOTWEAR</div>
+          <div className="eyebrow"><span className="eyebrow-line" />THE FUTURE OF FOOTWEAR MY PIPS</div>
           <h1>STEP INTO<span>SOMETHING NEW.</span></h1>
           <p>Not just sneakers. A statement. Discover exclusive footwear designed for movement, comfort and individuality. Find your next favourite pair.</p>
           <div className="hero-actions">
